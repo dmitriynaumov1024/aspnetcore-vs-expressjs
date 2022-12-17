@@ -1,0 +1,76 @@
+{
+    "manufacturerNames": [
+        "Gray", "Vox", "Terran", "Pan", "Fleet", "Ket"
+    ],
+    "manufactureYears": {
+        "min": 1999,
+        "max": 2040
+    },
+    "categories": [
+        {
+            "name": "cargo",
+            "minCargo": 120,
+            "maxCargo": 980,
+            "minGuns": 0,
+            "maxGuns": 2,
+            "minMissiles": 0,
+            "maxMissiles": 2,
+            "minThrusters": 3,
+            "maxThrusters": 4,
+            "minAgility": 40,
+            "maxAgility": 50 
+        },
+        {
+            "name": "fighter",
+            "minCargo": 25,
+            "maxCargo": 60,
+            "minGuns": 2,
+            "maxGuns": 4,
+            "minMissiles": 1,
+            "maxMissiles": 2,
+            "minThrusters": 3,
+            "maxThrusters": 4,
+            "minAgility": 120,
+            "maxAgility": 150 
+        },
+        {
+            "name": "salvage",
+            "minCargo": 80,
+            "maxCargo": 180,
+            "minGuns": 1,
+            "maxGuns": 4,
+            "minMissiles": 1,
+            "maxMissiles": 2,
+            "minThrusters": 3,
+            "maxThrusters": 4,
+            "minAgility": 100,
+            "maxAgility": 150 
+        },
+        {
+            "name": "reconnaisance",
+            "minCargo": 30,
+            "maxCargo": 45,
+            "minGuns": 1,
+            "maxGuns": 2,
+            "minMissiles": 0,
+            "maxMissiles": 1,
+            "minThrusters": 1,
+            "maxThrusters": 3,
+            "minAgility": 180,
+            "maxAgility": 250 
+        },
+        {
+            "name": "lightweight",
+            "minCargo": 20,
+            "maxCargo": 36,
+            "minGuns": 1,
+            "maxGuns": 1,
+            "minMissiles": 0,
+            "maxMissiles": 1,
+            "minThrusters": 1,
+            "maxThrusters": 2,
+            "minAgility": 130,
+            "maxAgility": 160 
+        }
+    ]
+}
