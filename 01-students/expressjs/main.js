@@ -1,0 +1,1 @@
+console.log("Hello there, this script is useless, use npm run server\n")
